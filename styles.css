@@ -3,8 +3,8 @@
     margin:0px;
     overflow: hidden;
     padding:0px;
-    position: fixed;
-        
+    padding-left: 26%;
+    background-image: url(https://bit.ly/31rspTb)
 }
 .topnav a {
     text-decoration: none;
