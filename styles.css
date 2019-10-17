@@ -1,22 +1,37 @@
+body {
+  background-color: rgb(250, 239, 225);
+}
 .topnav {
-    width:100%;
-    margin:0px;
-    overflow: hidden;
-    padding:0px;
-    padding-left: 26%;
-    background-image: url(https://bit.ly/31rspTb)
+  width: 100%;
+  margin: 0px;
+  overflow: hidden;
+
+  padding: 0px;
+  padding-left: 26%;
+  background-image: url(https://bit.ly/31rspTb);
 }
 .topnav a {
-    text-decoration: none;
-    font-size: 1.6rem;
-    color: black;
-    background-color:rgb(204, 179, 163);
-    display: block;
-    float:left;
-    padding:2rem ;
+  text-decoration: none;
+  font-size: 1.6rem;
+  color: black;
+  background-color: rgb(204, 179, 163);
+  display: block;
+  float: left;
+  padding: 2rem;
 }
+/*.bimage > img {
+        margin-top:60px;
+        margin-left:400px
+    }*/
+.bimage {
+  display: flex;
+  margin-top: 60px;
+  margin-left: 400px;
+}
+.first {
+  margin-top: 200px;
+  margin-left: 60px;
+  font-size: 3em;
+  font-family: 'Kalam', cursive;
 
-    body {
-        background-color:rgb(250, 239, 225);
-
-    }
+}
