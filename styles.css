@@ -33,15 +33,14 @@ background-color: rgb(250, 239, 225);
         margin-left:400px
     }*/
 .bimage {
-  display: flex;
-  margin-top: 60px;
-  margin-left: 400px;
+  background-image: url(https://bit.ly/31yHD95);
+  background-size: cover;
 }
 .first {
-  margin-top: 200px;
-  margin-left: 60px;
   font-size: 3em;
   font-family: 'Marck Script', cursive;
+
+  
 
 
 }
@@ -102,5 +101,7 @@ background-color: rgb(250, 239, 225);
 .column{
   float: left;
   padding: 50px;
-  
+  font-family: 'Source Code Pro', monospace;
+  font-size: 1.3rem;
+  text-align: center;
 }
