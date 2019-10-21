@@ -1,5 +1,11 @@
-.one {
+#one {
   background-color: rgb(250, 239, 225);
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size:cover ;
+}
+#two {
+background-color: rgb(250, 239, 225);
 }
 .topnav {
   width: auto;
@@ -80,4 +86,10 @@
 }
 .work{
     color:chocolate;
+}
+.opening {
+  margin-top:40px;
+  font-size: 2rem;
+  font-family: 'Jomolhari', serif;
+  text-align: center;
 }
