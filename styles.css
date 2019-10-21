@@ -93,3 +93,14 @@ background-color: rgb(250, 239, 225);
   font-family: 'Jomolhari', serif;
   text-align: center;
 }
+
+.projects{
+  clear: both;
+  display: table;
+  content: "";
+}
+.column{
+  float: left;
+  padding: 50px;
+  
+}
