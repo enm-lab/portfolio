@@ -2,7 +2,10 @@
 #### {Organisation Website}, {2019}
 #### By **{Emma Mwanza}**
 ## Description
-{The website is a common hub for the projects and work of Peniel Non-Governmental Organizaton. It can be used variously to keep up with the activities of the organisation and additionally to contribute and support them.}
+{The website is a common hub for the projects and work of Peniel Non-Governmental Organisaton. It can be used variously to keep up with the activities of the organisation and additionally to contribute and support them.}
+## Project Screenshots
+<img src = "./images/aboutme.jpg" width="200"/>
+
 ## Setup/Installation Requirements
 * Application not available at the moment.
 {The website can be accessed on both a phone and computer.}

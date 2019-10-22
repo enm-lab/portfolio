@@ -1,11 +1,15 @@
 #one {
   background-color: rgb(250, 239, 225);
-  background-image: url();
+  background-image: url(https://bit.ly/2Eq3Hdc);
   background-repeat: no-repeat;
   background-size:cover ;
+
 }
 #two {
 background-color: rgb(250, 239, 225);
+}
+#three {
+  background-color: rgb(250, 239, 225);
 }
 .topnav {
   width: auto;
@@ -32,14 +36,11 @@ background-color: rgb(250, 239, 225);
         margin-top:60px;
         margin-left:400px
     }*/
-.bimage {
-  background-image: url(https://bit.ly/31yHD95);
-  background-size: cover;
-}
 .first {
   font-size: 3em;
   font-family: 'Marck Script', cursive;
-
+  margin-top:230px;
+  margin-left:200px;
   
 
 
@@ -104,4 +105,16 @@ background-color: rgb(250, 239, 225);
   font-family: 'Source Code Pro', monospace;
   font-size: 1.3rem;
   text-align: center;
+}
+.navbar{
+  text-decoration: none;
+  font-size: 2rem;
+  font-family: 'Sacramento', cursive;
+  color: black;
+  background-color: rgb(204, 179, 163);
+  display: block;
+  float: center;
+position:fixed;
+width:100%;
+  bottom:0%;
 }
